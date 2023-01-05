@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.pruebafavicon.com.mx/index.html</loc>
+    <lastmod>2023-01-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.pruebafavicon.com.mx/images/versiones_mesa%20de%20trabajo%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pruebafavicon.com.mx/images/versiones_mesa%20de%20trabajo%201_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pruebafavicon.com.mx/images/versiones_mesa%20de%20trabajo%2011199x674.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pruebafavicon.com.mx/images/versiones_mesa%20de%20trabajo%2011199x674_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pruebafavicon.com.mx/images/versiones_mesa%20de%20trabajo%2011079x607.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pruebafavicon.com.mx/images/versiones_mesa%20de%20trabajo%2011079x607_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pruebafavicon.com.mx/images/versiones_mesa%20de%20trabajo%201875x492.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pruebafavicon.com.mx/images/versiones_mesa%20de%20trabajo%201875x492_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pruebafavicon.com.mx/images/versiones_mesa%20de%20trabajo%201648x364.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.pruebafavicon.com.mx/images/versiones_mesa%20de%20trabajo%201648x364_2x.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
